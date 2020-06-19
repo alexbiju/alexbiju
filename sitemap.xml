@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://alexbiju.org/</loc>
     <lastmod>2020-06-06T22:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/who/</loc>
+    <loc>http://alexbiju.org/who/</loc>
     <lastmod>2020-06-06T22:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://alexbiju.org/about/</loc>
     <lastmod>2020-06-06T22:51:12-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://alexbiju.org/posts/</loc>
     <lastmod>2020-06-06T16:20:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/using_ebpf_with_go/</loc>
+    <loc>http://alexbiju.org/posts/using_ebpf_with_go/</loc>
     <lastmod>2020-06-06T16:20:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://alexbiju.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://alexbiju.org/tags/</loc>
   </url>
   
 </urlset>
