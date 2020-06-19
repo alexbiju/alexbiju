@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alexbiju.org/</loc>
+    <loc>https://alexbiju.com/</loc>
     <lastmod>2020-06-06T22:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/who/</loc>
+    <loc>https://alexbiju.com/who/</loc>
     <lastmod>2020-06-06T22:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/about/</loc>
+    <loc>https://alexbiju.com/about/</loc>
     <lastmod>2020-06-06T22:51:12-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/posts/</loc>
+    <loc>https://alexbiju.com/posts/</loc>
     <lastmod>2020-06-06T16:20:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/posts/using_ebpf_with_go/</loc>
+    <loc>https://alexbiju.com/posts/using_ebpf_with_go/</loc>
     <lastmod>2020-06-06T16:20:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/categories/</loc>
+    <loc>https://alexbiju.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://alexbiju.org/tags/</loc>
+    <loc>https://alexbiju.com/tags/</loc>
   </url>
   
 </urlset>
